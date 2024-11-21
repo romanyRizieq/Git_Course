@@ -1,2 +1,2 @@
-# Git_Coursel
+# Git_Course
 ## Project Notes
